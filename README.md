@@ -6,6 +6,11 @@ Team members:
 - Danial Riaz - 201678@students.hertie-school.org
 - Fernando Corral - 222836@students.hertie-school.org
 - Rodrigo Dornelles - 228446@students.hertie-school.org
+
+## Solution:
+
+Please check the aolutions in Main.py and bucket.py files.
+
 ## Assignment:
 
 A Bucket sort can use any stable sorting algorithm to sort the elements in its buckets.
