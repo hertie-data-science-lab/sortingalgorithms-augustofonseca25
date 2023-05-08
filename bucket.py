@@ -29,8 +29,8 @@ def bucketSort(array):
         # Insert elements into their respective buckets
         for j in array: # For each element
             '''
-            To define the bucket, let's divide each array element by 10 raised to the power of the 
-            difference between the exponents of the maximum and the minimum element. 
+            To define the bucket, let's divide each element of the array by 10 raised to the 
+            power of the difference between the exponents of the scientific number of the maximum and minimum element. 
             This will define which numerical order will be searched (units, tens, hundreds...)
             So we obtain that digit by dividing by 10 and getting the remainder.
             '''
