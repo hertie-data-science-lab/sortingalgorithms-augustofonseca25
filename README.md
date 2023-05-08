@@ -9,7 +9,7 @@ Team members:
 
 ## Solution:
 
-Please check the aolutions in Main.py and bucket.py files.
+Please check the solutions in Main.py and bucket.py files.
 
 ## Assignment:
 
