@@ -30,7 +30,7 @@ def bucketSort(array):
         for j in array: # For each element
             '''
             To define the bucket, let's divide each array element by 10 raised to the power of the 
-            difference between the man and the minimum element. 
+            difference between the exponents of the maximum and the minimum element. 
             This will define which numerical order will be searched (units, tens, hundreds...)
             So we obtain that digit by dividing by 10 and getting the remainder.
             '''
